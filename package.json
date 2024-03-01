@@ -1,0 +1,25 @@
+{
+  "name": "@taliyo/enterprise-product-design",
+  "version": "1.0.0",
+  "description": "Comprehensive multi-page Nuxt 3 product engineering portfolio featuring 10 deep-dive case studies, fluid page transitions, and design system specs.",
+  "private": true,
+  "author": "Taliyo Technologies <info@taliyotechnologies.com>",
+  "homepage": "https://www.taliyotechnologies.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/virajverse/enterprise-product-design.git"
+  },
+  "scripts": {
+    "start": "python serve.py",
+    "dev": "python serve.py",
+    "preview": "python serve.py"
+  },
+  "keywords": [
+    "taliyo-technologies",
+    "virajverse",
+    "commercial-product",
+    "enterprise-product-design-&-case-studies",
+    "frontend-showcase"
+  ],
+  "license": "Commercial / Proprietary"
+}
